@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Hi, I'm Rambod
+
+I’m currently learning 
+
+😄 Pronouns: His Imperial Holiness of Ahura Mazda
+
+
+
 <!--
 **rpg225/rpg225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +19,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+-  ...
 - ⚡ Fun fact: ...
 -->
