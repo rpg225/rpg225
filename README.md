@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rpg225.rpg225" >
+
 ### Hi there 👋
 
 Hi, I'm Rambod
