@@ -15,10 +15,6 @@
 Hi, I'm Rambod
 I'm passionate about creating engaging and responsive web experiences that meet user needs. I specialize in HTML, CSS, and JavaScript, and enjoy experimenting with new technologies to push the boundaries of what's possible. With a focus on clean code and attention to detail, I strive to deliver high-quality work that delights users and exceeds expectations.
 
-I’m currently learning C++
-<h2> Hello World</h2>
-
-
 <!--
 **rpg225/rpg225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
