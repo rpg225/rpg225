@@ -1,31 +1,149 @@
-<h1 align="center">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+I+am+Rambod!" alt="Typing SVG" /></a>
-        </a>
-         </h1>
-     
-# 💻 Tech Stack:
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
-  <br/><br/><br/>
-</div>
+# 👋 Hey there, I'm Rambod Goshtasbi
 
-### Hi there 👋
+**Front-End Development Specialist | Full-Stack Developer | Blockchain Enthusiast**
 
-Hi, I'm Rambod
-I'm passionate about creating engaging and responsive web experiences that meet user needs. I specialize in HTML, CSS, and JavaScript, and enjoy experimenting with new technologies to push the boundaries of what's possible. With a focus on clean code and attention to detail, I strive to deliver high-quality work that delights users and exceeds expectations.
+📍 Ottawa, Canada | 📧 rambod@atomicmail.io | 🐦 [@RhymesWithCode](https://twitter.com/RhymesWithCode)
 
-<!--
-**rpg225/rpg225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--  ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate Front-End Development specialist with a keen interest in building modern, responsive web applications and exploring blockchain technologies. With expertise across multiple tech stacks, I love creating beautiful, functional digital experiences and pushing the boundaries of what's possible on the web.
+
+**Currently:** Exploring decentralized applications and advanced web3 technologies  
+**Based in:** Ottawa, Canada  
+**Followers:** 10 | **Following:** 16
+
+---
+
+## 💼 Core Skills & Technologies
+
+### 🎨 Frontend Development
+- **JavaScript** | **TypeScript** | **React**
+- **Tailwind CSS** | **CSS3** | **HTML5**
+- **Framer Motion** | **Next.js**
+
+### 🔗 Blockchain & Web3
+- **Smart Contracts** | **Solana**
+- **NFT Development** | **DeFi Applications**
+- **Web3 Integration**
+
+### 🐍 Backend & Systems
+- **Python** | **Rust**
+- **Blockchain Development**
+- **Low-latency Systems**
+
+### 🛠️ Tools & Frameworks
+- **React** | **Next.js** | **Babylon.js**
+- **Tailwind CSS** | **Rust**
+
+---
+
+## 🏆 Featured Projects
+
+### 🎯 **Vrulik Ink**
+One-page tattoo studio website featuring design-engineered UI with Framer Motion and Next.js
+- **Tech Stack:** TypeScript, Next.js, Framer Motion
+- **Status:** Active
+
+### 💼 **Tailwind Portfolio**
+Portfolio website showcasing my work and skills
+- **Tech Stack:** JavaScript, React, Tailwind CSS
+- **Status:** Active
+
+### 💎 **Digital Will** *(Decentralized Application)*
+A blockchain-based application enabling users to securely create, manage, and automatically execute wills
+- **Tech Stack:** JavaScript, Blockchain
+- **Status:** Active
+
+### ��� **Slot Machine Web3**
+Interactive slot machine application leveraging Web3 technologies
+- **Tech Stack:** JavaScript, Web3
+- **Status:** Active
+
+### 🎨 **Pixel Art Generator**
+Creative tool for generating pixel art designs
+- **Tech Stack:** JavaScript
+- **Status:** Active
+
+### 📚 **RPG Creative Agency**
+Creative agency website showcasing design and development capabilities
+- **Tech Stack:** CSS, HTML
+- **Status:** Active
+
+### 🎮 **BabylonJS 3D App**
+3D application built with Babylon.js framework
+- **Tech Stack:** JavaScript, Babylon.js
+- **Status:** Active
+
+### 🎯 **Sudoku Game**
+Interactive Sudoku puzzle game
+- **Tech Stack:** JavaScript
+- **Status:** Active
+
+### 🐱 **Cat Tinder**
+Fun matching application for cat lovers
+- **Tech Stack:** JavaScript, React
+- **Status:** Active
+
+### 📝 **Learn French React**
+Interactive language learning application
+- **Tech Stack:** JavaScript, React
+- **Status:** Active
+
+### 🎮 **Break Out Game**
+Classic breakout game implementation
+- **Tech Stack:** JavaScript
+- **Status:** Active
+
+---
+
+## 📚 Learning & Exploration
+
+- **PyFlow Decentralized Tracker** - Python-based decentralized tracking system
+- **Python Blockchain** - Udemy course on blockchain development with Python
+- **Intro to Python Blockchain** - Learning Python for blockchain applications
+- **Low Latency OMS** - Rust-based order management system
+- **Solana Voting** - Decentralized voting system on Solana blockchain
+- **Decentralized Voting** - Smart contract-based voting application
+- **NFT DApp** - NFT marketplace decentralized application
+- **QR Code Generator** - Utility for generating QR codes
+- **Podcast Player** - Streaming podcast player application
+- **Rust 2048 Game** - 2048 game implementation in Rust
+- **Document Editor** - Document editing application built in Rust
+
+---
+
+## 📊 Repository Stats
+
+- **Total Repositories:** 70
+- **Primary Languages:** JavaScript, TypeScript, Python, Rust, CSS
+- **Active Focus:** Frontend Development, Web3/Blockchain, Full-Stack Development
+
+---
+
+## 🌐 Connect With Me
+
+- **Twitter:** [@RhymesWithCode](https://twitter.com/RhymesWithCode)
+- **Email:** rambod@atomicmail.io
+- **GitHub:** [rpg225](https://github.com/rpg225)
+
+---
+
+## 🎯 Current Interests
+
+- 🚀 Web3 and Blockchain Development
+- 🎨 Modern Frontend Architecture
+- ⚡ Performance Optimization
+- 🎮 Creative Web Applications
+- 🔐 Smart Contract Development
+
+---
+
+## 💡 Open to Collaboration
+
+I'm always interested in connecting with fellow developers, designers, and blockchain enthusiasts. Whether it's collaborating on projects, discussing new ideas, or learning from each other's experiences, feel free to reach out!
+
+---
+
+**Thank you for visiting my GitHub profile! Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or chat about web development and blockchain technologies.** 🚀
